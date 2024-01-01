@@ -1,4 +1,3 @@
-
 class Solution {
     public boolean isPalindrome(int x) {
         // Handle negative numbers and numbers ending in 0 (excluding 0 itself)
