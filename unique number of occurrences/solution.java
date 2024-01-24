@@ -1,3 +1,4 @@
+
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
         HashMap<Integer, Integer> hashMap = new HashMap<>();
